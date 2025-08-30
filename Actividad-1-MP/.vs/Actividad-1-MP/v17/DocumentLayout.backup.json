@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD0C2B-46AD-4279-B089-25F977BCA236}|Actividad-1-MP\\Actividad-1-MP.csproj|c:\\users\\angel\\onedrive\\documentos\\facultad\\materias\\compleijidad temporal\\new folder\\actividad-1-mp\\actividad-1-mp\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD0C2B-46AD-4279-B089-25F977BCA236}|Actividad-1-MP\\Actividad-1-MP.csproj|solutionrelative:actividad-1-mp\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD0C2B-46AD-4279-B089-25F977BCA236}|Actividad-1-MP\\Actividad-1-MP.csproj|c:\\users\\angel\\onedrive\\documentos\\facultad\\materias\\compleijidad temporal\\new folder\\actividad-1-mp\\actividad-1-mp\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD0C2B-46AD-4279-B089-25F977BCA236}|Actividad-1-MP\\Actividad-1-MP.csproj|solutionrelative:actividad-1-mp\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD0C2B-46AD-4279-B089-25F977BCA236}|Actividad-1-MP\\Actividad-1-MP.csproj|c:\\users\\angel\\onedrive\\documentos\\facultad\\materias\\compleijidad temporal\\new folder\\actividad-1-mp\\actividad-1-mp\\comparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD0C2B-46AD-4279-B089-25F977BCA236}|Actividad-1-MP\\Actividad-1-MP.csproj|solutionrelative:actividad-1-mp\\comparable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD0C2B-46AD-4279-B089-25F977BCA236}|Actividad-1-MP\\Actividad-1-MP.csproj|c:\\users\\angel\\onedrive\\documentos\\facultad\\materias\\compleijidad temporal\\new folder\\actividad-1-mp\\actividad-1-mp\\coleccionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD0C2B-46AD-4279-B089-25F977BCA236}|Actividad-1-MP\\Actividad-1-MP.csproj|solutionrelative:actividad-1-mp\\coleccionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD0C2B-46AD-4279-B089-25F977BCA236}|Actividad-1-MP\\Actividad-1-MP.csproj|c:\\users\\angel\\onedrive\\documentos\\facultad\\materias\\compleijidad temporal\\new folder\\actividad-1-mp\\actividad-1-mp\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD0C2B-46AD-4279-B089-25F977BCA236}|Actividad-1-MP\\Actividad-1-MP.csproj|solutionrelative:actividad-1-mp\\numero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD0C2B-46AD-4279-B089-25F977BCA236}|Actividad-1-MP\\Actividad-1-MP.csproj|c:\\users\\angel\\onedrive\\documentos\\facultad\\materias\\compleijidad temporal\\new folder\\actividad-1-mp\\actividad-1-mp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD0C2B-46AD-4279-B089-25F977BCA236}|Actividad-1-MP\\Actividad-1-MP.csproj|solutionrelative:actividad-1-mp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Numero.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Numero.cs",
+              "RelativeDocumentMoniker": "Actividad-1-MP\\Numero.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Numero.cs",
+              "RelativeToolTip": "Actividad-1-MP\\Numero.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:49:37.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comparable.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Comparable.cs",
+              "RelativeDocumentMoniker": "Actividad-1-MP\\Comparable.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Comparable.cs",
+              "RelativeToolTip": "Actividad-1-MP\\Comparable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:02:07.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Pila.cs",
+              "RelativeDocumentMoniker": "Actividad-1-MP\\Pila.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Pila.cs",
+              "RelativeToolTip": "Actividad-1-MP\\Pila.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv14AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:53:54.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Cola.cs",
+              "RelativeDocumentMoniker": "Actividad-1-MP\\Cola.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Cola.cs",
+              "RelativeToolTip": "Actividad-1-MP\\Cola.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:51:54.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coleccionable.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Coleccionable.cs",
+              "RelativeDocumentMoniker": "Actividad-1-MP\\Coleccionable.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Coleccionable.cs",
+              "RelativeToolTip": "Actividad-1-MP\\Coleccionable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:43:54.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Program.cs",
+              "RelativeDocumentMoniker": "Actividad-1-MP\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Program.cs",
+              "RelativeToolTip": "Actividad-1-MP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T02:18:38.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
