@@ -40,12 +40,15 @@ public class Program
 
         Pila p = new Pila();
         Cola cl = new Cola();
+        //Ejercicio 9 - Modificar Main para crear coleccion multiple
+        ColeccionMultiple multiple = new ColeccionMultiple(p, cl);
 
         Llenar(p);
         Llenar(cl);
 
         Informar(p);
         Informar(cl);
+        Informar(multiple);
 
 
 
