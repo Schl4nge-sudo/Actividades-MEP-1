@@ -20,7 +20,32 @@ namespace Actividad_1_MP
         public Numero getLegajo() {  return this.legajo; }
         public Numero getPromedio() { return this.promedio; }
 
+        public bool sosIgual(Comparable c)
+        {
+            if (c.sosIgual(this.legajo))
+            {
+                return true;
+            }
+            return false;
+        }
 
+        public bool sosMayor(Comparable c)
+        {
+            if (c.sosMayor(this.legajo))
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public bool sosMenor(Comparable c)
+        {
+            if (c.sosMenor(this.legajo))
+            {
+                return true;
+            }
+            return false;
+        }
 
     }
 }
