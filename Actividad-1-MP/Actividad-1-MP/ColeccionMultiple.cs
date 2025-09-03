@@ -31,22 +31,36 @@ namespace Actividad_1_MP
             throw new NotImplementedException();
         }
 
-       /** public Comparable Cuantos()
+        public Comparable Cuantos()
         {
-            Numero cantPila = new Numero(this.p.CantidadElementos());
-            Numero cantCola = new Numero(this.c.CantidadElementos());
-
-            return (cantPila, cantCola);
+            int total = this.p.CantidadElementos() + this.c.CantidadElementos();
+            return new Numero(total);
         }
-       **/
+       
         public Comparable Maximo()
         {
-            throw new NotImplementedException();
+            if (this.p.Maximo().sosMayor(this.c.Maximo()))
+            {
+                return this.p.Maximo();
+            }
+            if (this.c.Maximo().sosMayor(this.p.Maximo()))
+            {
+                return this.c.Maximo();
+            }
+            else { throw new NotImplementedException();  } 
         }
 
         public Comparable Minimo()
         {
-            throw new NotImplementedException();
+            if (this.p.Minimo().sosMenor(this.c.Minimo()))
+            {
+                return this.p.Minimo();
+            }
+            if (this.c.Minimo().sosMenor(this.p.Minimo()))
+            {
+                return this.c.Minimo();
+            }
+            else { throw new NotImplementedException(); }
         }
     }
 }

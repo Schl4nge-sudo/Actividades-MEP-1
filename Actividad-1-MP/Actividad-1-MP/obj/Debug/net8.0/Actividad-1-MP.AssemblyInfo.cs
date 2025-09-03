@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Actividad-1-MP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c106ab363176323d4c5a77de8c418accadcd9e83")]
 [assembly: System.Reflection.AssemblyProductAttribute("Actividad-1-MP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Actividad-1-MP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

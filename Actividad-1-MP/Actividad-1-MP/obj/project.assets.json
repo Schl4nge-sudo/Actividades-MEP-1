@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Actividad-1-MP.csproj",
+      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\MDP-1\\Actividad-1-MP\\Actividad-1-MP\\Actividad-1-MP.csproj",
       "projectName": "Actividad-1-MP",
-      "projectPath": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\Actividad-1-MP.csproj",
+      "projectPath": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\MDP-1\\Actividad-1-MP\\Actividad-1-MP\\Actividad-1-MP.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\Compleijidad Temporal\\New folder\\Actividad-1-MP\\Actividad-1-MP\\obj\\",
+      "outputPath": "C:\\Users\\angel\\OneDrive\\Documentos\\Facultad\\Materias\\MDP-1\\Actividad-1-MP\\Actividad-1-MP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
