@@ -1,4 +1,5 @@
-﻿using System.Security.Cryptography.X509Certificates;
+﻿using System.Drawing;
+using System.Security.Cryptography.X509Certificates;
 using Actividad_1_MP;
 
 public class Program
@@ -17,6 +18,7 @@ public class Program
 
     }
 
+    // funcion para generar nombres aleatorios (cadenas de caracteres)
     public static string GenerarString(int longitud)
     {
         const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
@@ -47,30 +49,41 @@ public class Program
 
     }
 
+    // Ejercicio 13 - Implementar funcion llenar alumnos
     public static void LlenarAlumnos(Coleccionable c)
     {
-        for (int i = 0; i < 20; i++) { 
-        
-        
+        for (int i = 0; i < 20; i++) {
 
-        
+            string nombreRandom = GenerarString(4);
+            int dniRandom = unicoRandomGlobal.Next(1,10);
+            Numero dr = new Numero(dniRandom);
+            int legajoRandom = unicoRandomGlobal.Next(1, 10);
+            Numero lr = new Numero(legajoRandom);
+            int promedioRandom = unicoRandomGlobal.Next(1, 10);
+            Numero pr = new Numero(promedioRandom);
+
+            Alumno alumno = new Alumno(nombreRandom, dr, lr, pr);
+
+            c.Agregar(alumno);
+
         }
 
     }
 
 
-    // Ejercicio 7 - Implementar modulo main
-
+    // Ejercicio 7 & 14 - Implementar modulo main
+    
     public static void Main(string[] args)
     {
 
         Pila p = new Pila();
         Cola cl = new Cola();
         //Ejercicio 9 - Modificar Main para crear coleccion multiple
-        ColeccionMultiple multiple = new ColeccionMultiple(p, cl);
 
-        Llenar(p);
-        Llenar(cl);
+        LlenarAlumnos(p);
+        LlenarAlumnos(cl);
+
+        ColeccionMultiple multiple = new ColeccionMultiple(p, cl);
 
         Informar(p);
         Informar(cl);
