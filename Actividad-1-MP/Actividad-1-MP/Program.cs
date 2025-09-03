@@ -17,6 +17,20 @@ public class Program
 
     }
 
+    public static string GenerarString(int longitud)
+    {
+        const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+        Random rnd = new Random();
+        char[] buffer = new char[longitud];
+
+        for (int i = 0; i < longitud; i++)
+        {
+            buffer[i] = chars[rnd.Next(chars.Length)];
+        }
+
+        return new string(buffer);
+    }
+
     // Ejercicio 6 - Implementar funcion informar 
     public static void Informar(Coleccionable c)
     {
@@ -32,6 +46,18 @@ public class Program
         else { Console.WriteLine("El elemento no se encuentra en la coleccion"); }
 
     }
+
+    public static void LlenarAlumnos(Coleccionable c)
+    {
+        for (int i = 0; i < 20; i++) { 
+        
+        
+
+        
+        }
+
+    }
+
 
     // Ejercicio 7 - Implementar modulo main
 
