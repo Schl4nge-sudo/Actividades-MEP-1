@@ -28,7 +28,11 @@ namespace Actividad_1_MP
 
         public bool Contiene(Comparable c)
         {
-            throw new NotImplementedException();
+            if (this.c.Contiene(c) || this.p.Contiene(c))
+            {
+                return true;
+            }
+            return false;
         }
 
         public Comparable Cuantos()
