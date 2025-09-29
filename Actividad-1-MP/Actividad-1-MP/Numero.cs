@@ -33,5 +33,6 @@ namespace Actividad_1_MP
             if (((Numero)c).getValor() < this.valor) return true;
             else return false;
         }
+        public override string ToString() => this.valor.ToString();
     }
 }

@@ -35,10 +35,9 @@ namespace Actividad_1_MP
             return false;
         }
 
-        public Comparable Cuantos()
+        public int Cuantos()
         {
-            int total = this.p.CantidadElementos() + this.c.CantidadElementos();
-            return new Numero(total);
+            return this.p.CantidadElementos() + this.c.CantidadElementos();
         }
        
         public Comparable Maximo()

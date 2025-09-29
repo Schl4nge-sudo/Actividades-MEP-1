@@ -47,5 +47,8 @@ namespace Actividad_1_MP
             }
             return false;
         }
+
+        public override string ToString() => string.Format("[Persona: Nombre={0}, Dni={1}]", nombre, dni);
+
     }
 }

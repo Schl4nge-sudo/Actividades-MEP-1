@@ -10,7 +10,7 @@ namespace Actividad_1_MP
 {
     public interface Coleccionable
     {
-        public int Cuantos();
+        public Comparable Cuantos();
         public Comparable Minimo();
         public Comparable Maximo();
         public void Agregar(Comparable c);

@@ -1,0 +1,15 @@
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\bin\Debug\net8.0\Actividad-1-MP.exe
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\bin\Debug\net8.0\Actividad-1-MP.deps.json
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\bin\Debug\net8.0\Actividad-1-MP.runtimeconfig.json
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\bin\Debug\net8.0\Actividad-1-MP.dll
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\bin\Debug\net8.0\Actividad-1-MP.pdb
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\obj\Debug\net8.0\Actividad-1-MP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\obj\Debug\net8.0\Actividad-1-MP.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\obj\Debug\net8.0\Actividad-1-MP.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\obj\Debug\net8.0\Actividad-1-MP.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\obj\Debug\net8.0\Actividad-1-MP.sourcelink.json
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\obj\Debug\net8.0\Actividad-1-MP.dll
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\obj\Debug\net8.0\refint\Actividad-1-MP.dll
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\obj\Debug\net8.0\Actividad-1-MP.pdb
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\obj\Debug\net8.0\Actividad-1-MP.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Documentos\Facultad\Materias\MDP-1\Actividad-1-MP\Actividad-1-MP\obj\Debug\net8.0\ref\Actividad-1-MP.dll
