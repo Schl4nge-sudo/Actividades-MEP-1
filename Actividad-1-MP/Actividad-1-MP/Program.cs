@@ -92,4 +92,15 @@ public class Program
 
 
     }
+
+    /*
+     
+    Ejercicio 16
+
+    Para reflexionar. Responda ¿Podría haber hecho esto mismo sin interfaces? ¿A qué costo?
+
+    Sí se puede hacer sin interfaces, pero el costo es perder reutilización, polimorfismo y flexibilidad. 
+    El código se vuelve rígido, repetitivo y difícil de mantener.
+     
+     */
 }
