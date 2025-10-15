@@ -21,7 +21,7 @@ namespace Actividad_1_MP
         public String Nombre { get { return nombre; } }
         public int Dni { get { return this.dni.getValor(); } }
 
-        public bool sosIgual(Comparable c)
+        public virtual bool sosIgual(Comparable c)
         {
             if (c.sosIgual(this.dni))
             {
@@ -30,7 +30,7 @@ namespace Actividad_1_MP
             return false;
         }
 
-        public bool sosMayor(Comparable c)
+        public virtual bool sosMayor(Comparable c)
         {
             if (c.sosMayor(this.dni))
             {
@@ -39,7 +39,7 @@ namespace Actividad_1_MP
             return false;
         }
 
-        public bool sosMenor(Comparable c)
+        public virtual bool sosMenor(Comparable c)
         {
             if (c.sosMenor(this.dni))
             {
